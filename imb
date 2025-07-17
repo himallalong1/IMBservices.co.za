@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IMB - Installation, Maintenance & Building</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>IMB</h1>
+    <p>Installation, Maintenance & Building</p>
+  </header>
+
+  <section class="hero">
+    <h2>Complete Solutions for Every Project</h2>
+    <p>Welding, Electrical, Plumbing, Solar, Renovation, and More</p>
+  </section>
+
+  <section class="services">
+    <h3>Our Services</h3>
+    <ul>
+      <li>🔧 Welding</li>
+      <li>🛠 Renovation</li>
+      <li>🧱 Tiling & Carpeting</li>
+      <li>🚰 Plumbing</li>
+      <li>⚡ Electrical</li>
+      <li>🔆 Solar Installation</li>
+      <li>❄ Cold Room Setup</li>
+    </ul>
+  </section>
+
+ 
