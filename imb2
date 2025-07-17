@@ -1,0 +1,47 @@
+ <section class="contact">
+    <h3>Contact Us</h3>
+    <p>📞 <a href="tel:‪+27713851939‬">071 385 1939</a></p>
+    <p>📧 <a href="mailto:moetikealeboga295@gmail.com">m
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background: #0c4b8e;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.hero {
+  background: #e1ecf4;
+  padding: 40px;
+  text-align: center;
+}
+
+.services, .contact {
+  padding: 20px;
+  background: white;
+  margin: 10px;
+}
+
+.services ul {
+  list-style: none;
+  padding: 0;
+}
+
+.services li {
+  padding: 5px 0;
+}
+
+footer {
+  background: #0c4b8e;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
